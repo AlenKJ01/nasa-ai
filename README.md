@@ -109,7 +109,7 @@ nasa/
 │   ├── nasa_doc1.pdf
 │   ├── nasa_doc2.pdf
 │   ├── nasa_doc3.pdf
-│   └── my_profile.txt     # contains NASA general info
+│   └── nasa.txt     # contains NASA general info
 │
 ├── vectorstore/
 │   ├── index.faiss
